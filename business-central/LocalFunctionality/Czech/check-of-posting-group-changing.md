@@ -12,7 +12,7 @@ ms.author: v-makune
 ---
 
 
-# Electronic registration of sales (EET)
+# Check of Posting Group changing – Customer, Vendor, item, bank account
 
 
 Odstavec textu se základními informacemi. Na co slouží, co to umí.

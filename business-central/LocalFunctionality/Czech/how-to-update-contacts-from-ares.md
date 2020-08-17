@@ -12,8 +12,7 @@ ms.author: v-makune
 ---
 
 
-# Electronic registration of sales (EET)
-
+# Contacts Actualization from ARES
 
 Odstavec textu se základními informacemi. Na co slouží, co to umí.
 

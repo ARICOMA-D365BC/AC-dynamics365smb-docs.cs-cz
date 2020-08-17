@@ -12,8 +12,7 @@ ms.author: v-makune
 ---
 
 
-# Electronic registration of sales (EET)
-
+# Templates for inventory Operations – Stockkeeping Unit Templates
 
 Odstavec textu se základními informacemi. Na co slouží, co to umí.
 

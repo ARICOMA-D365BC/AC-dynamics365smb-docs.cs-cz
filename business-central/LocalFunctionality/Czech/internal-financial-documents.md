@@ -12,7 +12,7 @@ ms.author: v-makune
 ---
 
 
-# Electronic registration of sales (EET)
+# Internal Financial Documents
 
 
 Odstavec textu se základními informacemi. Na co slouží, co to umí.
