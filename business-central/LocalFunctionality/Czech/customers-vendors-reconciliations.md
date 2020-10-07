@@ -12,25 +12,11 @@ ms.author: v-makune
 ---
 
 
-# Customers-Vendors Reconciliations
+# Odsouhlasení pohledávek a závazků
 
-
-
-Odstavec textu se základními informacemi. Na co slouží, co to umí.
-
-
-## Použití (procesy použití)
-
-Základní použití první funkce. (popis)
-
-(příklad)
-1. Pomocí vyhledávací funkce **Řekněte mi, co chcete udělat (Alt + Q)** vyhledejte **Nastavení kategorií**.
-2. Na kartě Nastavení v záložce Obecné je potřeba vybrat **Vynucení Kategorií** a **Výchozí prioritu**.
-3. V záložce Číslování nastavit **Číselnou řadu** pro požadavky.
-4. Potvrďte pomocí OK.
-
-
-Pokud téma obsahuje několik procesů nebo funkcí, kroky opakujte.
-
+Na konci každého fiskálního roku (nebo jiného období je-li požadováno) společnosti zasílají hlášení o stavu pohledávek zákazníkům a závazků dodavatelům, aby si navzájem sladili svoje záznamy. Zákazníci a dodavatelé buď hlášení potvrdí, nebo ho pošlou na základě svých vlastních informací s opravami zpět. Tato funkcionalita umožňuje uživatelům vytvořit sestavy odsouhlasení pohledávek a závazků v [!INCLUDE[d365fin](../../includes/d365fin_long_md.md)].
 
 ## Viz Také
+
+[České lokální funkcionality](czech-local-functionality.md)  
+[Finance](../../finance.md)

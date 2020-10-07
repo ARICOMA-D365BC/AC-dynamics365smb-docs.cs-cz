@@ -12,24 +12,30 @@ ms.author: v-makune
 ---
 
 
-# Statutory Statements
+# Statutární výkazy
 
+Společnosti musí vytvořit účetní závěrku v souladu se zákonem o účetnictví č. 563/1991.  Musí vytvořit rozvahu a výkaz zisků a ztrát.
+Tato funkce poskytuje následující výkazy:
 
-Odstavec textu se základními informacemi. Na co slouží, co to umí.
+- Rozvaha
+- Výkaz zisku a ztráty
 
+Tyto výkazy používají účetní schémata s definovanou strukturou statutárních výkazů.
 
-## Použití (procesy použití)
+V tabulce Název účetního schématu je v české verzi přidáno nové pole:
+- Typ účetního schématu – Rozvaha nebo Výkaz zisku a ztrát
 
-Základní použití první funkce. (popis)
+V řádku účetních schémat jsou v české verzi přidána nová pole:
+- Korekce řady – odkaz na jiný řádek pro sestavení Rozvahy
+- Typ Aktivní/Pasivní – Aktiva nebo pasiva pro sestavení Rozvahy
+- Vypočti – Vždy, Nikdy, Při kladné, Při záporné
 
-(příklad)
-1. Pomocí vyhledávací funkce **Řekněte mi, co chcete udělat (Alt + Q)** vyhledejte **Nastavení kategorií**.
-2. Na kartě Nastavení v záložce Obecné je potřeba vybrat **Vynucení Kategorií** a **Výchozí prioritu**.
-3. V záložce Číslování nastavit **Číselnou řadu** pro požadavky.
-4. Potvrďte pomocí OK.
+Rozvaha a Výkaz zisků a ztrát jsou často připravovány v šablonách souborů aplikace Excel s potřebným vzhledem pro vytištění výkazu. Uživatelé chtějí mít možnost mapovat definované účetní schémata do připravených šablon aplikace Excel.
 
-
-Pokud téma obsahuje několik procesů nebo funkcí, kroky opakujte.
-
+Z výše uvedených důvodů tato funkce poskytuje nové nastavení šablon aplikace Excel a mapování položek výkazů. Na základě tohoto nastavení mohou uživatelé exportovat data účetních schémat do souboru aplikace Excel.
 
 ## Viz Také
+
+[České lokální funkcionality](czech-local-functionality.md)  
+[Statutární informace o společnosti](statutory-company-information.md)
+[Finance](../../finance.md)

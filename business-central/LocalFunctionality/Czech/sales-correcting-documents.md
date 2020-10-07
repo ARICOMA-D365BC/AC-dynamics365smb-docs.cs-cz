@@ -12,23 +12,15 @@ ms.author: v-makune
 ---
 
 
-# Sales correcting documents
+# Opravné prodejní doklady
 
-Odstavec textu se základními informacemi. Na co slouží, co to umí.
+Podle novelizace Zákona o DPH je nutné rozlišovat typy prodejních dobropisů. Tato funkce umožňuje uživatelům nastavit následující typy dobropisů:
 
-
-## Použití (procesy použití)
-
-Základní použití první funkce. (popis)
-
-(příklad)
-1. Pomocí vyhledávací funkce **Řekněte mi, co chcete udělat (Alt + Q)** vyhledejte **Nastavení kategorií**.
-2. Na kartě Nastavení v záložce Obecné je potřeba vybrat **Vynucení Kategorií** a **Výchozí prioritu**.
-3. V záložce Číslování nastavit **Číselnou řadu** pro požadavky.
-4. Potvrďte pomocí OK.
-
-
-Pokud téma obsahuje několik procesů nebo funkcí, kroky opakujte.
-
+- Opravný daňový doklad
+- Interní oprava
+- Daňový doklad insolvence
 
 ## Viz Také
+
+[České lokální funkcionality](czech-local-functionality.md)  
+[Finance](../../finance.md)

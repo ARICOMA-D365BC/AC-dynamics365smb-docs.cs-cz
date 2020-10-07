@@ -33,3 +33,6 @@ Pokud téma obsahuje několik procesů nebo funkcí, kroky opakujte.
 
 
 ## Viz Také
+
+[České lokální funkcionality](czech-local-functionality.md)  
+[Finance](../../finance.md)

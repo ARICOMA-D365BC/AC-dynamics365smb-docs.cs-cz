@@ -12,23 +12,20 @@ ms.author: v-makune
 ---
 
 
-# New design of output documents
+# Nový design výstupních dokladů
 
-Odstavec textu se základními informacemi. Na co slouží, co to umí.
+Byla vytvořena nová sada tiskových sestav pro externí doklady společnosti.
+Všechny doklady mají stejný vzhled (záhlaví, zápatí, typ a velikost písma, atd.)  
 
+Kromě toho byly výstupní doklady rozšířeny o všechny náležitosti vyžadované českou legislativou:  
 
-## Použití (procesy použití)
-
-Základní použití první funkce. (popis)
-
-(příklad)
-1. Pomocí vyhledávací funkce **Řekněte mi, co chcete udělat (Alt + Q)** vyhledejte **Nastavení kategorií**.
-2. Na kartě Nastavení v záložce Obecné je potřeba vybrat **Vynucení Kategorií** a **Výchozí prioritu**.
-3. V záložce Číslování nastavit **Číselnou řadu** pro požadavky.
-4. Potvrďte pomocí OK.
-
-
-Pokud téma obsahuje několik procesů nebo funkcí, kroky opakujte.
-
+- IČ, DIČ
+- Odpočet záloh s informacemi o faktuře a datu přijaté platby
+- Tisk Specifikace DPH seskupené podle DPH identifikátoru
+- Pojmenování opravných daňových dokladů na základě typu dobropisu
+- Tisk dokladů vztahujících se k zálohám
 
 ## Viz Také
+
+[České lokální funkcionality](czech-local-functionality.md)  
+[Finance](../../finance.md)

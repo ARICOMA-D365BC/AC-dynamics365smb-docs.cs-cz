@@ -12,23 +12,20 @@ ms.author: v-makune
 ---
 
 
-# VAT Reports
+# Sestavy DPH
 
-Odstavec textu se základními informacemi. Na co slouží, co to umí.
+Pro splnění nároků na tiskové výstupy odpovídající legislativním požadavkům a místním zvyklostem poskytuje tato funkce následující sestavy:  
 
-
-## Použití (procesy použití)
-
-Základní použití první funkce. (popis)
-
-(příklad)
-1. Pomocí vyhledávací funkce **Řekněte mi, co chcete udělat (Alt + Q)** vyhledejte **Nastavení kategorií**.
-2. Na kartě Nastavení v záložce Obecné je potřeba vybrat **Vynucení Kategorií** a **Výchozí prioritu**.
-3. V záložce Číslování nastavit **Číselnou řadu** pro požadavky.
-4. Potvrďte pomocí OK.
-
-
-Pokud téma obsahuje několik procesů nebo funkcí, kroky opakujte.
-
+- Výpočet a účtování vyrovnání DPH - standartní sestava byla přizpůsobena
+- Podklady pro DPH
+- Seznam daňových dokladů,
+- Přehled DPH na prodejních  zálohách
+- Přehled DPH na  nákupních  zálohách
 
 ## Viz Také
+
+[České lokální funkcionality](czech-local-functionality.md)  
+[Kontrolní hlášení DPH](how-to-create-vat-control-report.md)  
+[Datum DPH](how-to-setup-vat-date.md)
+[Výkaz DPH](vat-statement.md)
+[Finance](../../finance.md)

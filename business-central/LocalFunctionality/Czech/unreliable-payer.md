@@ -12,23 +12,13 @@ ms.author: v-makune
 ---
 
 
-# Unreliable Payer
+# Institut nespolehlivého plátce  
 
-Odstavec textu se základními informacemi. Na co slouží, co to umí.
-
-
-## Použití (procesy použití)
-
-Základní použití první funkce. (popis)
-
-(příklad)
-1. Pomocí vyhledávací funkce **Řekněte mi, co chcete udělat (Alt + Q)** vyhledejte **Nastavení kategorií**.
-2. Na kartě Nastavení v záložce Obecné je potřeba vybrat **Vynucení Kategorií** a **Výchozí prioritu**.
-3. V záložce Číslování nastavit **Číselnou řadu** pro požadavky.
-4. Potvrďte pomocí OK.
-
-
-Pokud téma obsahuje několik procesů nebo funkcí, kroky opakujte.
-
+Novela zákona o DPH 235/2004 (§ 106a) zavedla institut nespolehlivého plátce. Ministerstvo financí zveřejňuje elektronicky seznam nespolehlivých plátců.  
+Tato funkce využívá tuto službu k získání zveřejněných informací a ukazuje stav plátce na kartách dodavatelů a nákupních dokladech.  
+Ministerstvo financí také zveřejňuje informace o registrovaných bankovních účtech plátců (pouze tyto účty jsou povoleny pro platby). Informace o registrovaných bankovních účtech plátců jsou uloženy v Bankovních účtech dodavatele a používány v rámci platebního styku.
 
 ## Viz Také
+
+[České lokální funkcionality](czech-local-functionality.md)  
+[Finance](../../finance.md)

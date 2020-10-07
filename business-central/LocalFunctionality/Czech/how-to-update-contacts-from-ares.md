@@ -12,23 +12,13 @@ ms.author: v-makune
 ---
 
 
-# Contacts Actualization from ARES
+# Aktualizace kontaktů z ARES
 
-Odstavec textu se základními informacemi. Na co slouží, co to umí.
-
-
-## Použití (procesy použití)
-
-Základní použití první funkce. (popis)
-
-(příklad)
-1. Pomocí vyhledávací funkce **Řekněte mi, co chcete udělat (Alt + Q)** vyhledejte **Nastavení kategorií**.
-2. Na kartě Nastavení v záložce Obecné je potřeba vybrat **Vynucení Kategorií** a **Výchozí prioritu**.
-3. V záložce Číslování nastavit **Číselnou řadu** pro požadavky.
-4. Potvrďte pomocí OK.
-
-
-Pokud téma obsahuje několik procesů nebo funkcí, kroky opakujte.
-
+ARES je zkratka pro Access to Register of Economic Subjects. ARES je informační systém umožňující získávání informací o ekonomických subjektech registrovaných v České republice.
+Uživatel může http adresu služby ARES vyplnit v Nastavení služby ověření IČ.  
+Aktualizaci z ARES můžete spustit z karty kontaktu, dodavatele nebo zákazníka na tlačítku v poli IČ. Můžete vyhledávat společnosti a rozhodnout, která pole v [!INCLUDE[d365fin](../../includes/d365fin_long_md.md)] zaktualizujete (název, adresa, město, PSČ).
 
 ## Viz Také
+
+[České lokální funkcionality](czech-local-functionality.md)  
+[Finance](../../finance.md)

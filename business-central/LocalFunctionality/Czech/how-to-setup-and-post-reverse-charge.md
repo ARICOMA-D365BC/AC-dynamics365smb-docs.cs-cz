@@ -16,7 +16,6 @@ ms.author: v-makune
 
 Odstavec textu se základními informacemi. Na co slouží, co to umí.
 
-
 ## Použití (procesy použití)
 
 Základní použití první funkce. (popis)
@@ -27,8 +26,9 @@ Základní použití první funkce. (popis)
 3. V záložce Číslování nastavit **Číselnou řadu** pro požadavky.
 4. Potvrďte pomocí OK.
 
-
 Pokud téma obsahuje několik procesů nebo funkcí, kroky opakujte.
 
-
 ## Viz Také
+
+[České lokální funkcionality](czech-local-functionality.md)  
+[Finance](../../finance.md)

@@ -12,25 +12,20 @@ ms.author: v-makune
 ---
 
 
-# Statutory Company Information
+# Statutární informace o společnosti
 
+V současné době, kolují mnohé doklady vně i uvnitř společnosti. Místní právní předpisy stanovují minimální požadavky na takové doklady. Tyto požadavky můžeme zhruba rozdělit do tří skupin:
+- Jména zástupců společnosti musí být uvedena na některých interních či externích dokladech
+- Zápatí dokumentů – většina externích dokumentů musí obsahovat základní informace o společnosti v zápatích dokumentů, obvykle v jazyce partnerské společnosti
+- Registrační čísla společnosti musí být viditelně uvedena v interních a externích dokumentech
 
+Tato funkce umožňuje uživatelům definovat zástupce společnosti a nastavit je jako generálního ředitele, hlavní účetní a finančního manažera pro použití v interních a externích dokladech. 
+Uživatelé mohou definovat zápatí dokumentu v různých jazycích. Tato zápatí lze použít v různých sestavách a dokumentech.
 
-Odstavec textu se základními informacemi. Na co slouží, co to umí.
-
-
-## Použití (procesy použití)
-
-Základní použití první funkce. (popis)
-
-(příklad)
-1. Pomocí vyhledávací funkce **Řekněte mi, co chcete udělat (Alt + Q)** vyhledejte **Nastavení kategorií**.
-2. Na kartě Nastavení v záložce Obecné je potřeba vybrat **Vynucení Kategorií** a **Výchozí prioritu**.
-3. V záložce Číslování nastavit **Číselnou řadu** pro požadavky.
-4. Potvrďte pomocí OK.
-
-
-Pokud téma obsahuje několik procesů nebo funkcí, kroky opakujte.
-
+Další registrační čísla společnosti a další registrační informace mohou být uloženy v Informacích o společnosti a používány v dokladech.
 
 ## Viz Také
+
+[České lokální funkcionality](czech-local-functionality.md)  
+[Statutární výkazy](statutory-statements.md)
+[Finance](../../finance.md)

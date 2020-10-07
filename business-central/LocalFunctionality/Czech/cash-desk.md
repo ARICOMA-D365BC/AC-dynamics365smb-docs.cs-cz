@@ -12,24 +12,28 @@ ms.author: v-makune
 ---
 
 
-# Cash Desk Management
+# Řízení hotovosti
 
+Funkcionalita pokladen a pokladních dokladů umožňuje definovat pokladní účty a pokladny pro fyzický příjem a výdej peněz. Každá pokladna musí mít samostatnou číselnou řadu pokladních dokladů. Pro pokladny je možné nastavit samostatné číselné řady příjmových a výdajových dokladů. Lze předdefinovat různé typy pokladních případů pro zjednodušení zadávání dokladů. Dále je možné nastavit uživatele zodpovědného za pokladnu a tuto zodpovědnost předávat mezi uživateli pokladny.  
 
-Odstavec textu se základními informacemi. Na co slouží, co to umí.
+Pokladny obsahují následující funkcionality:
+- Nastavení pokladen, uživatele pokladny
+- Příjmové a výdajové doklady a jejich účtování
+- Pokladní případy používané jako šablony obvyklých účetních případů
+- Vyrovnání plateb s položkami zákazníků a dodavatelů
+- Vyrovnání plateb se zálohovými fakturami
+- Inventář pokladny
+- Výstupní doklady (Příjmový pokladní doklad, Výdajový pokladní doklad)
+- Sestavy (Pokladní kniha, Kniha pokladního účtu a Předání pokladny)
 
+Karta pokladny obsahuje základní údaje o pokladně, jako jsou číslo, měna, kontaktní údaje apod. Dále obsahuje také nastavení pro účtování, definice pro kontroly a limity a přednastavení číselných řad pro pokladní doklady.
 
-## Použití (procesy použití)
+Pokladní doklady jsou příjmové nebo výdejové a mohou být v různých měnách dle pokladny. Doklady dále umožňují vydání, účtování a tisk výstupních dokladů.
 
-Základní použití první funkce. (popis)
+Z řádků pokladního dokladu lze spustit funkci Vyrovnat položky, která umožňuje vybrat k vyrovnání položky zákazníků nebo dodavatelů. Obdobně jsou k dispozici funkce pro vyrovnání se zálohovými fakturami.
 
-(příklad)
-1. Pomocí vyhledávací funkce **Řekněte mi, co chcete udělat (Alt + Q)** vyhledejte **Nastavení kategorií**.
-2. Na kartě Nastavení v záložce Obecné je potřeba vybrat **Vynucení Kategorií** a **Výchozí prioritu**.
-3. V záložce Číslování nastavit **Číselnou řadu** pro požadavky.
-4. Potvrďte pomocí OK.
+## Viz také  
 
+[České lokální funkcionality](czech-local-functionality.md)  
+[Finance](../../finance.md)
 
-Pokud téma obsahuje několik procesů nebo funkcí, kroky opakujte.
-
-
-## Viz Také

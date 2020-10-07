@@ -12,24 +12,25 @@ ms.author: v-makune
 ---
 
 
-# Accounting Output Documents
+# Účetní výstupní doklady
 
-
-Odstavec textu se základními informacemi. Na co slouží, co to umí.
-
-
-## Použití (procesy použití)
-
-Základní použití první funkce. (popis)
-
-(příklad)
-1. Pomocí vyhledávací funkce **Řekněte mi, co chcete udělat (Alt + Q)** vyhledejte **Nastavení kategorií**.
-2. Na kartě Nastavení v záložce Obecné je potřeba vybrat **Vynucení Kategorií** a **Výchozí prioritu**.
-3. V záložce Číslování nastavit **Číselnou řadu** pro požadavky.
-4. Potvrďte pomocí OK.
-
-
-Pokud téma obsahuje několik procesů nebo funkcí, kroky opakujte.
-
+Pro splnění nároků na výstupy odpovídající legislativním požadavkům a místním zvyklostem poskytuje tato funkcionalita následující sestavy:
+- Finanční deník
+- Hlavní účetní kniha
+- Kontační lístky
+- Obratová předvaha dle glob. dimenze
+- Otevřené věcné položky do data
+- Inventura účtu do data
+- Vyrovnání bankovního účtu
+- Vyrovnání spojovacího konta
+- Odsouhlasení DPH – finance
+- Pozdržené platby
+- Otevřené položky zákazníků k datu
+- Otevřené položky dodavatelů k datu
+- Saldo fiskálního roku – upravená standardní sestava
+- Předvaha podle období - upravená standardní sestava
 
 ## Viz Také
+
+[České lokální funkcionality](czech-local-functionality.md)  
+[Finance](../../finance.md)
