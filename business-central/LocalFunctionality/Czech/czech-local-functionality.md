@@ -15,7 +15,7 @@ ms.author: v-pejano
 
 Následující témata popisují lokální funkcionalitu české verze [!INCLUDE[d365fin](../../includes/d365fin_md.md)].
 
-## Feature Availability
+## Dostupnost funkcí
 
 * Finance  
   * [Výkaz DPH](vat-statement.md) **Nyní k dispozici** 
@@ -46,8 +46,8 @@ Následující témata popisují lokální funkcionalitu české verze [!INCLUDE
   * [Řízení hotovosti](cash-desk.md) **Nyní k dispozici** 
 
  
-## See Also
+## Viz také
 
-[Working with [!INCLUDE[d365fin](../../includes/d365fin_md.md)]](../../ui-work-product.md)  
+[Práce s [!INCLUDE[d365fin](../../includes/d365fin_md.md)]](../../ui-work-product.md)  
 
 ## [!INCLUDE[d365fin](../../includes/free_trial_md.md)]  
