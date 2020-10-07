@@ -11,7 +11,7 @@ ms.reviewer: v-pejano
 ms.author: v-pejano
 ---
 
-# Czech Local Functionality  
+# Česká lokální funkcionalita
 
 Následující témata popisují lokální funkcionalitu české verze [!INCLUDE[d365fin](../../includes/d365fin_md.md)].
 
