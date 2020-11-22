@@ -1,5 +1,5 @@
 ---
-title: Core Localization Application Pack for Czech
+title: Core Localization Pack for Czech
 description: This section describes Core Localization Application Pack for Czech extension functionality.
 author: v-pejano
 
@@ -7,11 +7,11 @@ ms-service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: Czech, Finance, Localization
 ms.date: 10/01/2020
-ms.reviewer: edupont
+ms.reviewer: v-pejano
 ms.author: v-pejano
 ---
 
-# Core Localization Pack for Czech (Application)
+# Core Localization Pack for Czech (Extension)
 
 This extension includes functionality to help companies with the requirements of Czech accounting and tax legislation and best practices.  
 
