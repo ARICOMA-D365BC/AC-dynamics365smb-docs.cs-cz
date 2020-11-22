@@ -1,14 +1,14 @@
 ---
-title: Czech Local Functionality | Microsoft Docs
-description: The following topics describe the local functionality in the Czech version of Business Central.
-author: v-makune
+title: Registration of Sales (EET) | Microsoft Docs
+description: The entrepreneur who realizes sales to be registered has the obligation to register sales. A sale to be registered is a payment in cash, by card, or by similar means, which entails a business income and which is not exempt from registration.
+author: v-pejano
 
 ms-service: dynamics365-business-central
-ms.topic: conceptual
-ms.search.keywords: CZ, Czech, Advance payment, Advance invoices, Payables, Finance,  Cash, EET, Cash Desk
-ms.date: 12/30/2019
-ms.reviewer: v-makune
-ms.author: v-makune
+ms.topic: article
+ms.search.keywords: CZ, Czech, EET, Cash Desk
+ms.date: 10/01/2020
+ms.reviewer: v-pejano
+ms.author: v-pejano
 ---
 
 
