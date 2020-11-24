@@ -1,5 +1,5 @@
 ---
-title: Cash Desk Localization for Czech
+title: Cash Desk Localization for Czech (Extension) | Microsoft Docs
 description: The application covers the requirements of Czech legislation and best practices for Microsoft Dynamics 365 Business Central in the field of cash registers.
 author: v-pejano
 
@@ -7,33 +7,34 @@ ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: Czech, CashDesk, Finance, CZ, Cash
 ms.date: 10/01/2020
-ms.reviewer: edupont
+ms.reviewer: v-pejano
 ms.author: v-pejano
 ---
 
-# Cash Desk Localization for Czech
+# Správa pokladen (Extension)
 
-In the Czech version of Business Central, the Cash Desk functionality helps companies with the legislation requirements and best practices in cash desk operations.
+V české verzi [!INCLUDE[d365fin](../../includes/d365fin_md.md)] pomáhá funkcionalita pokladen řešit legislativní požadavky a osvědčené postupy v pokladních operacích.
 
-The Cash Desks and Cash Documents features allow you to define cash accounts and cash desks for the physical receipt and money withdrawal. Each cash desk must have a separate number series of the cash documents. You can set up separate number series for the receipt cash documents and withdrawal cash documents. The cash desk cases are pre-defined cases to simplify data entry. You can specify individual user authorized to operate with the particular cash desk and transmit cash desks between users.  
+Funkcionalita pokladen a pokladních dokladů umožňuje definovat pokladní účty a pokladny pro fyzický příjem a výdej peněz. Každá pokladna musí mít samostatnou číselnou řadu pokladních dokladů. Pro pokladny je možné nastavit samostatné číselné řady příjmových a výdajových dokladů. Lze předdefinovat různé typy pokladních případů pro zjednodušení zadávání dokladů. Dále je možné nastavit uživatele zodpovědného za pokladnu a tuto zodpovědnost předávat mezi uživateli pokladny.  
 
-## Key features
+## Klíčové funcionality
 
-- Cash desk setup, cash desk users
-- Receipt cash document, withdrawal of cash documents and their posting
-- Cash desk cases used as templates for usual accounting transactions
-- Payment application with customer and vendor ledger entries
-- Payment Application with advance invoices
-- Cash desk inventory
-- Output documents (receipt cash document, withdrawal cash document)
-- Reports - Cash Desk Account Book, Cash Desk Book, Cash Desk Hand Over
+- Nastavení pokladen, uživatele pokladny
+- Příjmové a výdajové doklady a jejich účtování
+- Pokladní případy používané jako šablony obvyklých účetních případů
+- Vyrovnání plateb s položkami zákazníků a dodavatelů
+- Vyrovnání plateb se zálohovými fakturami
+- Inventář pokladny
+- Výstupní doklady (Příjmový pokladní doklad, Výdajový pokladní doklad)
+- Sestavy (Pokladní kniha, Kniha pokladního účtu a Předání pokladny)
 
-The cash desk card contains basic cash register information, such as number, currency, contact details, etc. It also includes billing settings, definitions for checks and limits, and numeric series presets for cash receipts.  
+Karta pokladny obsahuje základní údaje o pokladně, jako jsou číslo, měna, kontaktní údaje apod. Dále obsahuje také nastavení pro účtování, definice pro kontroly a limity a přednastavení číselných řad pro pokladní doklady.
 
-Cash documents are receipt or withdrawal, and can be in different currencies according to the cash register. The documents also enable the releasing, posting and printing of exit documents.  
+Pokladní doklady jsou příjmové nebo výdejové a mohou být v různých měnách dle pokladny. Doklady dále umožňují vydání, účtování a tisk výstupních dokladů.
 
-You can run the apply entries feature from the cash document rows to select customer or vendor entries for alignment. Similarly, features are available for off-setting backup invoices.  
+Z řádků pokladního dokladu lze spustit funkci Vyrovnat položky, která umožňuje vybrat k vyrovnání položky zákazníků nebo dodavatelů. Obdobně jsou k dispozici funkce pro vyrovnání se zálohovými fakturami.
 
 ## See Also
-[Czech Local Functionality](czech-local-functionality.md)  
-[Finance](finance.md)
+
+[České lokální funkcionality](czech-local-functionality.md)  
+[Finance](../../finance.md)
