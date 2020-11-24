@@ -4,7 +4,7 @@ description: This section describes Core Localization Application Pack for Czech
 author: v-pejano
 
 ms-service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.search.keywords: Czech, Finance, Localization
 ms.date: 10/01/2020
 ms.reviewer: v-pejano
