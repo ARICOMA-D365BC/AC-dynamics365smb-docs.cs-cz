@@ -1,5 +1,5 @@
 ---
-title: Core Localization Pack for Czech
+title: Core Localization Pack for Czech | Microsoft Docs
 description: This section describes Core Localization Application Pack for Czech extension functionality.
 author: v-pejano
 
