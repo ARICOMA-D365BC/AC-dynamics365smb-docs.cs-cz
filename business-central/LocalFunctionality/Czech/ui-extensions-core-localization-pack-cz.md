@@ -43,6 +43,30 @@ The application adds legislation requirements of Czechia as well as reporting fe
 - Multi-circuit Accounting
 - Small regulatory features and best practices
 
+## Dostupnost funkcí
+
+* Finance  
+  * [Výkaz DPH](vat-statement.md) **Nyní k dispozici**
+  * [Dodatečná hlášení DPH](supplementary-vat-statement.md) **Nyní k dispozici**
+  * [Souhrnné hlášení](vies-cz.md) **Nyní k dispozici**
+  * [VIES - CZ Export](how-to-use-vies-cz-export.md) **Nyní k dispozici**
+  * [Institut nespolehlivého plátce](unreliable-payer.md) **Nyní k dispozici**
+  * [Kontrolní hlášení DPH](how-to-create-vat-control-report.md) **Nyní k dispozici**
+  * [Sestavy DPH](czech-vat-reports.md) **Nyní k dispozici**
+  * [Úprava směnných kurzů](how-to-update-exchange-rate.md) **Nyní k dispozici**
+  * [Statutární informace o společnosti](statutory-company-information.md) **Nyní k dispozici**
+  * [Statutární výkazy](statutory-statements.md) **Nyní k dispozici**
+  * [Odsouhlasení pohledávek a závazků](customers-vendors-reconciliations.md) **Nyní k dispozici**
+  * [Opravné prodejní doklady](sales-correcting-documents.md) **Nyní k dispozici**
+  * [Aktualizace kontaktů z ARES](how-to-update-contacts-from-ares.md) **Nyní k dispozici**
+  * [Nový design výstupních dokladů](new-design-of-output-documents.md) **Nyní k dispozici**
+  * [Zásoby](inventory-counting-document.md) **Nyní k dispozici**
+  * [Elektronická evidence tržeb (EET)](eet.md) **Nyní k dispozici**
+* DPH   
+  * [Řízení hotovosti](cash-desk.md) **Nyní k dispozici**
+* DPH   
+  * [Řízení hotovosti](cash-desk.md) **Nyní k dispozici**
+
 ## See Also  
 
 [Czech Local Functionality](czech-local-functionality.md)  
