@@ -29,4 +29,6 @@ Pokud téma obsahuje několik procesů nebo funkcí, kroky opakujte.
 
 ## Viz Také
 
+[Core Localization Pack for Czech](ui-extensions-core-localization-pack-cz.md)  
+[Advanced Localization Pack for Czech](ui-extensions-advanced-localization-pack-cz.md)  
 [Czech Local Functionality](czech-local-functionality.md)
