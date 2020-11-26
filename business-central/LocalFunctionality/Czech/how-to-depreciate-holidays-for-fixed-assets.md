@@ -1,6 +1,6 @@
 ---
 title: Czech Local Functionality - Fixed assets Depreciation Holiday | Microsoft Docs
-description: This function enables user to discontinue depreciation for selected fixed assets and for specified periods.
+description: The Fixed Asset Depreciation Holidays feature enables user to discontinue depreciation for selected fixed assets and for specified periods.
 author: v-pejano
 
 ms-service: dynamics365-business-central

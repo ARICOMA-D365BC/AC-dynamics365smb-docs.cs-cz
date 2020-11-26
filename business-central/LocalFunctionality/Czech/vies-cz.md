@@ -1,12 +1,12 @@
 ---
-title: Czech Local Functionality | Microsoft Docs
-description: The following topics describe the local functionality in the Czech version of Business Central.
+title: Czech Local Functionality - Vies | Microsoft Docs
+description: The VIES report is used for sales declaration to tax authorities in EU (European Union) countries.
 author: v-makune
 
 ms-service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: CZ, Czech, Advance payment, Advance invoices, Payables, Finance,  Cash, EET, Cash Desk
-ms.date: 12/30/2019
+ms.date: 10/01/2020
 ms.reviewer: v-makune
 ms.author: v-makune
 ---

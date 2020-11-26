@@ -6,7 +6,7 @@ author: v-pejano
 ms-service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: CZ, Czech, local, Finance, VAT, Control Report
-ms.date: 12/30/2019
+ms.date: 10/01/2020
 ms.reviewer: v-pejano
 ms.author: v-pejano
 ---

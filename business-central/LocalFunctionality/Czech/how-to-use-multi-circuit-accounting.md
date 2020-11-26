@@ -1,12 +1,12 @@
 ---
-title: Czech Local Functionality | Microsoft Docs
+title: Czech Local Functionality - Multi Circuit Accounting | Microsoft Docs
 description: The following topics describe the local functionality in the Czech version of Business Central.
 author: v-makune
 
 ms-service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: CZ, Czech, Advance payment, Advance invoices, Payables, Finance,  Cash, EET, Cash Desk
-ms.date: 12/30/2019
+ms.date: 10/01/2020
 ms.reviewer: v-makune
 ms.author: v-makune
 ---
