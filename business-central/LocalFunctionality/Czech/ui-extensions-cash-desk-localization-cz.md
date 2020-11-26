@@ -34,7 +34,7 @@ Pokladní doklady jsou příjmové nebo výdejové a mohou být v různých měn
 
 Z řádků pokladního dokladu lze spustit funkci Vyrovnat položky, která umožňuje vybrat k vyrovnání položky zákazníků nebo dodavatelů. Obdobně jsou k dispozici funkce pro vyrovnání se zálohovými fakturami.
 
-## See Also
+## Viz také
 
 [České lokální funkcionality](czech-local-functionality.md)  
 [Finance](../../finance.md)

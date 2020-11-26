@@ -44,7 +44,6 @@ Toto rozšíření přidává do [!INCLUDE[d365fin](../../includes/d365fin_md.md
   * [Souhrnné hlášení](vies-cz.md) **Nyní k dispozici**
   * [VIES - CZ Export](how-to-use-vies-cz-export.md) **Nyní k dispozici**
 
-
 * Bankovnictví a platby
   * [Elektronická evidence tržeb (EET)](eet.md) **Nyní k dispozici**
   * Local Banking Feature - symbols and payments **Nyní k dispozici**
