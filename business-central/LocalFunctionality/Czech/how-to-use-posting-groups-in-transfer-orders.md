@@ -1,5 +1,5 @@
 ---
-title: Czech Local Functionality - Posting groups in transfer orders | Microsoft Docs
+title: Czech Local Functionality - Posting groups in Transfer Orders | Microsoft Docs
 description: In the Transfer Orders functionality, fields for Gen. Bus. Post. Groups for Ship and Receive posting were added.
 author: v-pejano
 
