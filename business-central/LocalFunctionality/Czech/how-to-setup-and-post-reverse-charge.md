@@ -1,6 +1,6 @@
 ---
-title: Czech Local Functionality | Microsoft Docs
-description: The following topics describe the local functionality in the Czech version of Business Central.
+title: Czech Local Functionality - Reverse charge - setup and posting | Microsoft Docs
+description: This section describes local functionality - Reverse charge
 author: v-makune
 
 ms-service: dynamics365-business-central
@@ -12,23 +12,11 @@ ms.author: v-makune
 ---
 
 
-# Reverse Charge - setup and posting
+# Přenesení daňové povinnosti – nastavení a účtování
+Slouží pro nastavení režimu přenesené daňové povinnosti a jeho vykazování. Nastavením Čísel sazebníku a Komodit  je zajištěno hlídání účtování faktur v odpovídajícím režimu (normální nebo přenesená daňová povinnost) a jejich správné výkaznictví v kontrolním hlášení. Jakmile je hlídání limitu dané komodity zapnuto (pole Kontrola PDP v Nastavení účtování DPH), pak je při překročení limitu (nastavení v číselníku Komodit) zobrazeno hlášení, že daná faktura musí být účtována v režimu. Kódy vykazované v kontrolním hlášení jsou nastaveny v číselníku Čísla sazebníku. 
 
-Odstavec textu se základními informacemi. Na co slouží, co to umí.
-
-## Použití (procesy použití)
-
-Základní použití první funkce. (popis)
-
-(příklad)
-1. Pomocí vyhledávací funkce **Řekněte mi, co chcete udělat (Alt + Q)** vyhledejte **Nastavení kategorií**.
-2. Na kartě Nastavení v záložce Obecné je potřeba vybrat **Vynucení Kategorií** a **Výchozí prioritu**.
-3. V záložce Číslování nastavit **Číselnou řadu** pro požadavky.
-4. Potvrďte pomocí OK.
-
-Pokud téma obsahuje několik procesů nebo funkcí, kroky opakujte.
 
 ## Viz Také
 
-[České lokální funkcionality](czech-local-functionality.md)  
-[Finance](../../finance.md)
+[Core Localization Pack for Czech](ui-extensions-core-localization-pack-cz.md)   
+[Czech Local Functionality](czech-local-functionality.md)

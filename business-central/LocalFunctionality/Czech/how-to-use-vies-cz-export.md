@@ -1,37 +1,20 @@
 ---
-title: Czech Local Functionality | Microsoft Docs
-description: The following topics describe the local functionality in the Czech version of Business Central.
-author: v-makune
+title: Czech Local Functionality - Vies - CZ export | Microsoft Docs
+description: This functionality allows you to export the VAT Summary Report to an XML file
+author: v-pejano
 
 ms-service: dynamics365-business-central
-ms.topic: conceptual
-ms.search.keywords: CZ, Czech, Advance payment, Advance invoices, Payables, Finance,  Cash, EET, Cash Desk
+ms.topic: article
+ms.search.keywords: Czech, Finance, Localization, CZ, Vies
 ms.date: 10/01/2020
-ms.reviewer: v-makune
-ms.author: v-makune
+ms.reviewer: v-pejano
+ms.author: v-pejano
 ---
 
-
-# VIES - CZ Export
-
-Odstavec textu se základními informacemi. Na co slouží, co to umí.
-
-
-## Použití (procesy použití)
-
-Základní použití první funkce. (popis)
-
-(příklad)
-1. Pomocí vyhledávací funkce **Řekněte mi, co chcete udělat (Alt + Q)** vyhledejte **Nastavení kategorií**.
-2. Na kartě Nastavení v záložce Obecné je potřeba vybrat **Vynucení Kategorií** a **Výchozí prioritu**.
-3. V záložce Číslování nastavit **Číselnou řadu** pro požadavky.
-4. Potvrďte pomocí OK.
-
-
-Pokud téma obsahuje několik procesů nebo funkcí, kroky opakujte.
-
+# Souhrnné hlášení – CZ Export 
+Funkcionalita, která umožňuje vyexportovat Souhrnné hlášení DPH do XML souboru ve struktuře požadované finanční správou. XML soubor je možné následně nahrát na portál finanční správy a Souhrnné hlášení tak elektronicky podat.
 
 ## Viz Také
 
-[České lokální funkcionality](czech-local-functionality.md)  
-[Finance](../../finance.md)
+[Core Localization Pack for Czech](ui-extensions-core-localization-pack-cz.md) 
+[Czech Local Functionality](czech-local-functionality.md)
