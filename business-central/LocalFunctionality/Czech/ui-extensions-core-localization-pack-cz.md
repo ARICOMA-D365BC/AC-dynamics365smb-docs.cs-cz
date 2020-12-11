@@ -18,15 +18,15 @@ Toto rozšíření přidává do [!INCLUDE[d365fin](../../includes/d365fin_md.md
 ## Dostupnost funkcí
 
 * Finance
-  * Account Schedule feature **Nedostupné**
+  * Account Schedule feature **2021 release wave 1**
   * Accounting Output Documents **Nyní k dispozici**
   * Corrections Posting (red storno) **Nyní k dispozici**
   * [Úprava směnných kurzů](how-to-update-exchange-rate.md) **Nyní k dispozici**
   * Internal Financial Documents **Nyní k dispozici**
-  * Intrastat Engine Setup **Nedostupné**
-  * Intrastat Report Export to CSV Format **Nedostupné**
-  * Posting Sales, Purchase or Transfer transaction **Nedostupné**
-  * Preparing Intrastat Journal **Nedostupné**
+  * Intrastat Engine Setup **2021 release wave 1**
+  * Intrastat Report Export to CSV Format **2021 release wave 1**
+  * Posting Sales, Purchase or Transfer transaction **2021 release wave 1**
+  * Preparing Intrastat Journal **2021 release wave 1**
   * [Statutární informace o společnosti](statutory-company-information.md) **Nyní k dispozici**
   * [Statutární výkazy](statutory-statements.md) **Nyní k dispozici**
   * Year Closing Operations **Nyní k dispozici**
@@ -36,7 +36,7 @@ Toto rozšíření přidává do [!INCLUDE[d365fin](../../includes/d365fin_md.md
   * [Dodatečná hlášení DPH](supplementary-vat-statement.md) **Nyní k dispozici**
   * [Institut nespolehlivého plátce](unreliable-payer.md) **Nyní k dispozici**
   * [Kontrolní hlášení DPH](how-to-create-vat-control-report.md) **Nyní k dispozici**
-  * [Korekce DPH v lokální měně](how-to-setup-vat-correction-local-currency.md) **Nedostupné**
+  * [Korekce DPH v lokální měně](how-to-setup-vat-correction-local-currency.md) **2021 release wave 1**
   * [Datum DPH](how-to-setup-vat-date.md) **Nyní k dispozici**
   * [Směnný kurz pro DPH](how-to-setup-vat-exchange-rate.md) **Nyní k dispozici**
   * [Sestavy DPH](czech-vat-reports.md) **Nyní k dispozici**
