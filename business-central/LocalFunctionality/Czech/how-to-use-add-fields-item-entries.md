@@ -11,7 +11,6 @@ ms.reviewer: v-pejano
 ms.author: v-pejano
 ---
 
-
 # Kódy původu v položce zboží a ocenění
 
 Pro snazší identifikaci položek zboží a ocenění byla do obou evidencí přidána následující pole:

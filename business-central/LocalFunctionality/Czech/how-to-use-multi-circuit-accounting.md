@@ -1,38 +1,23 @@
 ---
 title: Czech Local Functionality - Multi Circuit Accounting | Microsoft Docs
 description: The following topics describe the local functionality in the Czech version of Business Central.
-author: v-makune
+author: v-pejano
 
 ms-service: dynamics365-business-central
-ms.topic: conceptual
-ms.search.keywords: CZ, Czech, Advance payment, Advance invoices, Payables, Finance,  Cash, EET, Cash Desk
-ms.date: 10/01/2020
-ms.reviewer: v-makune
-ms.author: v-makune
+ms.topic: article
+ms.search.keywords: CZ, Czech, Localization, Finance  
+ms.date: 12/01/2020
+ms.reviewer: v-pejano
+ms.author: v-pejano
 ---
 
+# Skupiny finančních účtů - Více-okruhové účtování 
 
-# G/L Account Group – Multi-circuit Accounting 
-
-
-Odstavec textu se základními informacemi. Na co slouží, co to umí.
-
-
-## Použití (procesy použití)
-
-Základní použití první funkce. (popis)
-
-(příklad)
-1. Pomocí vyhledávací funkce **Řekněte mi, co chcete udělat (Alt + Q)** vyhledejte **Nastavení kategorií**.
-2. Na kartě Nastavení v záložce Obecné je potřeba vybrat **Vynucení Kategorií** a **Výchozí prioritu**.
-3. V záložce Číslování nastavit **Číselnou řadu** pro požadavky.
-4. Potvrďte pomocí OK.
-
-
-Pokud téma obsahuje několik procesů nebo funkcí, kroky opakujte.
-
+Dle účetních standardů může účetní jednotka účtovat v rámci vícero účetních okruhů (Finanční, Podrozvahové a Vnitropodnikové účetnictví).
+Pro nastavení účetních okruhů v systému slouží pole Skupina finančního účtu na Kartě účtu účetní osnovy. Při účtování dochází ke kontrole a systém zastaví účtování v případě, že je účtováno na finanční účty z různých účetních okruhů v rámci jedné účetní transakce.
 
 ## Viz Také
 
+[Základní lokalizační balíček pro Česko](ui-extensions-core-localization-pack-cz.md)  
 [České lokální funkcionality](czech-local-functionality.md)  
 [Finance](../../finance.md)
