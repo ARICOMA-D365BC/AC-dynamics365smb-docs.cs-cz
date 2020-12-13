@@ -23,7 +23,7 @@ Funkcionalita pokladen a pokladních dokladů umožňuje definovat pokladní ú�
 - Příjmové a výdajové doklady a jejich účtování
 - Pokladní případy používané jako šablony obvyklých účetních případů
 - Vyrovnání plateb s položkami zákazníků a dodavatelů
-- Vyrovnání plateb se zálohovými fakturami
+- Vyrovnání plateb se zálohovými fakturami **(2021 release wave 2)**
 - Inventář pokladny
 - Výstupní doklady (Příjmový pokladní doklad, Výdajový pokladní doklad)
 - Sestavy (Pokladní kniha, Kniha pokladního účtu a Předání pokladny)
@@ -33,6 +33,9 @@ Karta pokladny obsahuje základní údaje o pokladně, jako jsou číslo, měna,
 Pokladní doklady jsou příjmové nebo výdejové a mohou být v různých měnách dle pokladny. Doklady dále umožňují vydání, účtování a tisk výstupních dokladů.
 
 Z řádků pokladního dokladu lze spustit funkci Vyrovnat položky, která umožňuje vybrat k vyrovnání položky zákazníků nebo dodavatelů. Obdobně jsou k dispozici funkce pro vyrovnání se zálohovými fakturami.
+
+> [!NOTE]
+> Nové Pokladny (extension) aktuálně nepodporují Elektronickou evidenci tržeb (EET) a zálohové platby. V případě potřeby je nutné využít starou funkcionalitu Pokladen (BaseApp).
 
 ## Viz také
 

@@ -11,7 +11,7 @@ ms.reviewer: v-pejano
 ms.author: v-pejano
 ---
 
-# Zápočty
+# Zápočty (Extension)
 
 Zákazníci společnosti jsou také často jejími dodavateli. V takových případech je běžné, že společnosti vyrovnají své pohledávky a závazky.
 

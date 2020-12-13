@@ -5,8 +5,8 @@ author: v-pejano
 
 ms-service: dynamics365-business-central
 ms.topic: conceptual
-ms.search.keywords: CZ, Czech, Finance
-ms.date: 10/01/2020
+ms.search.keywords: CZ, Czech, Finance, VAT
+ms.date: 12/01/2020
 ms.reviewer: v-pejano
 ms.author: v-pejano
 ---
@@ -17,6 +17,6 @@ Směnný kurz se již v dokladech nachází, ale v České republice musí exist
 
 ## Viz Také
 
-[Core Localization Pack for Czech](ui-extensions-core-localization-pack-cz.md)  
+[Základní lokalizační balíček pro Česko](ui-extensions-core-localization-pack-cz.md)  
 [České lokální funkcionality](czech-local-functionality.md)  
 [Finance](../../finance.md)
