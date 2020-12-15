@@ -11,20 +11,20 @@ ms.reviewer: v-pejano
 ms.author: v-pejano
 ---
 
-# Pokladny (Extension)
+# Pokladny (rozšíření)
 
 V české verzi [!INCLUDE[d365fin](../../includes/d365fin_md.md)] pomáhá funkcionalita pokladen řešit legislativní požadavky a osvědčené postupy v pokladních operacích.
 
 Funkcionalita pokladen a pokladních dokladů umožňuje definovat pokladní účty a pokladny pro fyzický příjem a výdej peněz. Každá pokladna musí mít samostatnou číselnou řadu pokladních dokladů. Pro pokladny je možné nastavit samostatné číselné řady příjmových a výdajových dokladů. Lze předdefinovat různé typy pokladních případů pro zjednodušení zadávání dokladů. Dále je možné nastavit uživatele zodpovědného za pokladnu a tuto zodpovědnost předávat mezi uživateli pokladny.  
 
-## Klíčové funcionality
+## Klíčové funkcionality
 
 - Nastavení pokladen, uživatele pokladny
 - Příjmové a výdajové doklady a jejich účtování
 - Pokladní případy používané jako šablony obvyklých účetních případů
 - Vyrovnání plateb s položkami zákazníků a dodavatelů
-- Vyrovnání plateb se zálohovými fakturami **(2021 release wave 2)**
-- Inventář pokladny
+- Vyrovnání plateb se zálohovými fakturami **(2021 release wave 1)**
+- Inventarizace pokladny
 - Výstupní doklady (Příjmový pokladní doklad, Výdajový pokladní doklad)
 - Sestavy (Pokladní kniha, Kniha pokladního účtu a Předání pokladny)
 
@@ -35,7 +35,7 @@ Pokladní doklady jsou příjmové nebo výdejové a mohou být v různých měn
 Z řádků pokladního dokladu lze spustit funkci Vyrovnat položky, která umožňuje vybrat k vyrovnání položky zákazníků nebo dodavatelů. Obdobně jsou k dispozici funkce pro vyrovnání se zálohovými fakturami.
 
 > [!NOTE]
-> Nové Pokladny (extension) aktuálně nepodporují Elektronickou evidenci tržeb (EET) a zálohové platby. V případě potřeby je nutné využít starou funkcionalitu Pokladen (BaseApp).
+> Aplikace Pokladny (rozšíření) v aktuální verzi nepodporuje Elektronickou evidenci tržeb (EET) a Zálohové platby. V případě potřeby je nutné využít stávající aplikaci Pokladen (Base Application).
 
 ## Viz také
 
