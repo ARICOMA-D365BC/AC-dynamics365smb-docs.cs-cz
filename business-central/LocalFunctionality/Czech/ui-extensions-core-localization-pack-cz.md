@@ -11,7 +11,7 @@ ms.reviewer: v-pejano
 ms.author: v-pejano
 ---
 
-# Základní lokalizační balíček pro Česko (Extension)
+# Základní lokalizační balíček pro Česko (rozšíření)
 
 Toto rozšíření přidává do [!INCLUDE[d365fin](../../includes/d365fin_md.md)] funkce, které pomáhají společnostem s požadavky české účetní a daňové legislativy a osvědčených postupů.
 
