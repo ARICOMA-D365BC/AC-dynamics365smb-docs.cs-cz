@@ -1,5 +1,5 @@
 ---
-title: Czech Local Functionality - accounting schedule feature | Microsoft Docs
+title: Czech Local Functionality - accounting schedule feature
 description: Improvements of the standard Account Schedules feature (common list of expressions, saving results, formulas drill-down, additional data sources).
 author: v-pejano
 
@@ -11,7 +11,7 @@ ms.reviewer: v-pejano
 ms.author: v-pejano
 ---
 
-# Účetní schémata - rozšíření  
+# Účetní schémata - rozšíření
 
 Pro jednu z nejvíce používaných oblastí aplikace pro analýzu a reporting vyžadují východoevropské země následující vylepšení funkcionality standardních účetních schémat:
 - Společný seznam výrazů – společný seznam výrazů obsahuje pojmenované řádky, které lze použít jako vzorce pro všechna účetní schémata. Toho je docíleno definováním jednoho účetního schématu jako společného seznamu výrazů s názvem Sdílené účetní schéma.

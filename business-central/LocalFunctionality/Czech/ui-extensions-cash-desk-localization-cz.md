@@ -1,5 +1,5 @@
 ---
-title: Cash Desk Localization for Czech (Extension) | Microsoft Docs
+title: Cash Desk Localization for Czech (Extension) 
 description: The application covers the requirements of Czech legislation and best practices for Microsoft Dynamics 365 Business Central in the field of cash registers.
 author: v-pejano
 
@@ -40,4 +40,4 @@ Z řádků pokladního dokladu lze spustit funkci Vyrovnat položky, která umo�
 ## Viz také
 
 [České lokální funkcionality](czech-local-functionality.md)  
-[Finance](../../finance.md)
+[Finance](finance.md)

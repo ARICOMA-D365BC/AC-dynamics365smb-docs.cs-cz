@@ -1,18 +1,18 @@
 ---
-title: Czech Local Functionality - Accounting output documents | Microsoft Docs
-description: this feature provides the improvements that the VAT Statement report contains.
+title: Czech Local Functionality - Accounting output documents
+description: This feature provides the improvements that the VAT Statement report contains.
 author: v-makune
 
 ms-service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: CZ, Czech, Advance payment, Advance invoices, Payables, Finance, Cash, EET, Cash Desk
-ms.date: 10/01/2020
-ms.reviewer: v-makune
+ms.date: 12/01/2020
+ms.reviewer: v-pejano
 ms.author: v-makune
 ---
 
 
-# Účetní výstupní doklady
+# Účetní tiskové doklady
 
 Pro splnění nároků na výstupy odpovídající legislativním požadavkům a místním zvyklostem poskytuje tato funkcionalita následující sestavy:
 - Finanční deník
@@ -33,4 +33,4 @@ Pro splnění nároků na výstupy odpovídající legislativním požadavkům a
 ## Viz Také
 
 [České lokální funkcionality](czech-local-functionality.md)  
-[Finance](../../finance.md)
+[Finance](finance.md)

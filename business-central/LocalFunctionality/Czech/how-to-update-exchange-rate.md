@@ -1,5 +1,5 @@
 ---
-title: Czech Local Functionality - Exchange Rate Updating | Microsoft Docs
+title: Czech Local Functionality - Exchange Rate Updating
 description: The ability to automatically update currency exchange rates from the CNB (Czech National Bank) in the Czech version of Business Central.
 author: v-pejano
 
@@ -21,4 +21,4 @@ Uživatel si může v nastavení služby směnného kurzu definovat http adresu 
 
 [Core Localization Pack for Czech](ui-extensions-core-localization-pack-cz.md)  
 [České lokální funkcionality](czech-local-functionality.md)  
-[Finance](../../finance.md)
+[Finance](finance.md)

@@ -1,5 +1,5 @@
 ---
-title: Czech Local Functionality - corrections posting | Microsoft Docs
+title: Czech Local Functionality - corrections posting
 description: This local function is used to force corrective posting.
 author: v-pejano
 

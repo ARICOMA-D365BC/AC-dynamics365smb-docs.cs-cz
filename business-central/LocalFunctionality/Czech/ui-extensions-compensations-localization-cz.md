@@ -1,6 +1,7 @@
 ---
 title: Compensations Localization for Czech (Extension) 
 description: The application provides functionality that allows customers to set off receivables and payables in Business Central for the Czech Republic.
+The application provides functionality that allows customers offsetting receivables and payables in Business Central for the Czech Republic.
 author: v-pejano
 
 ms.service: dynamics365-business-central
