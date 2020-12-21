@@ -1,20 +1,21 @@
 ---
 title: Czech Local Functionality - Accounting output documents
-description: This feature provides the improvements that the VAT Statement report contains.
-author: v-makune
+description: The following topics describe Accounting output documents - the local functionality in the Czech version of Business Central. 
+author: v-pejano
 
 ms-service: dynamics365-business-central
-ms.topic: conceptual
-ms.search.keywords: CZ, Czech, Advance payment, Advance invoices, Payables, Finance, Cash, EET, Cash Desk
+ms.topic: article
+ms.search.keywords: Czech, Finance, Localization, CZ
 ms.date: 12/01/2020
 ms.reviewer: v-pejano
-ms.author: v-makune
+ms.author: v-pejano
 ---
 
 
 # Účetní tiskové doklady
 
 Pro splnění nároků na výstupy odpovídající legislativním požadavkům a místním zvyklostem poskytuje tato funkcionalita následující sestavy:
+
 - Finanční deník
 - Hlavní účetní kniha
 - Kontační lístky
@@ -32,5 +33,6 @@ Pro splnění nároků na výstupy odpovídající legislativním požadavkům a
 
 ## Viz Také
 
+[Základní lokalizační balíček pro Česko](ui-extensions-core-localization-pack-cz.md)
 [České lokální funkcionality](czech-local-functionality.md)  
-[Finance](finance.md)
+[Finance](../../finance.md)
