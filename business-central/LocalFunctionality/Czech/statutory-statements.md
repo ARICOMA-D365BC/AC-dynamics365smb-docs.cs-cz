@@ -1,14 +1,14 @@
 ---
 title: Czech Local Functionality - Statutory Statements | Microsoft Docs
-description: This feature provides the reports - Balance Sheet, Income Statement
+description: This feature provides the reports - Balance Sheet, Income Statement.
 author: v-makune
 
 ms-service: dynamics365-business-central
-ms.topic: conceptual
-ms.search.keywords: CZ, Czech, Advance payment, Advance invoices, Payables, Finance,  Cash, EET, Cash Desk
-ms.date: 10/01/2020
-ms.reviewer: v-makune
-ms.author: v-makune
+ms.topic: article
+ms.search.keywords: Czech, Finance, Localization, CZ
+ms.date: 12/01/2020
+ms.reviewer: v-pejano
+ms.author: v-pejano
 ---
 
 
@@ -23,9 +23,11 @@ Tato funkce poskytuje následující výkazy:
 Tyto výkazy používají účetní schémata s definovanou strukturou statutárních výkazů.
 
 V tabulce Název účetního schématu je v české verzi přidáno nové pole:
+
 - Typ účetního schématu – Rozvaha nebo Výkaz zisku a ztrát
 
 V řádku účetních schémat jsou v české verzi přidána nová pole:
+
 - Korekce řady – odkaz na jiný řádek pro sestavení Rozvahy
 - Typ Aktivní/Pasivní – Aktiva nebo pasiva pro sestavení Rozvahy
 - Vypočti – Vždy, Nikdy, Při kladné, Při záporné
@@ -36,6 +38,7 @@ Z výše uvedených důvodů tato funkce poskytuje nové nastavení šablon apli
 
 ## Viz Také
 
+[Základní lokalizační balíček pro Česko](ui-extensions-core-localization-pack-cz.md)  
 [České lokální funkcionality](czech-local-functionality.md)  
-[Statutární informace o společnosti](statutory-company-information.md)
-[Finance](../../finance.md)
+[Statutární informace o společnosti](statutory-company-information.md)  
+[Finance](../../finance.md)  

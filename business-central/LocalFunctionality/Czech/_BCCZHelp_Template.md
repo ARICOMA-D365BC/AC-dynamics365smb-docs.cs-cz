@@ -29,6 +29,10 @@ Pokud téma obsahuje několik procesů nebo funkcí, kroky opakujte.
 
 ## Viz Také
 
+[Základní lokalizační balíček pro Česko](ui-extensions-core-localization-pack-cz.md)
+[České lokální funkcionality](czech-local-functionality.md)  
+[Finance](../../finance.md)
+
 [Core Localization Pack for Czech](ui-extensions-core-localization-pack-cz.md)  
 [Advanced Localization Pack for Czech](ui-extensions-advanced-localization-pack-cz.md)  
 [Czech Local Functionality](czech-local-functionality.md)
