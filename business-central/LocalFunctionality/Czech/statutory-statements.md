@@ -1,5 +1,5 @@
 ---
-title: Czech Local Functionality - Statutory Statements | Microsoft Docs
+title: Czech Local Functionality - Statutory Statements
 description: This feature provides the reports - Balance Sheet, Income Statement.
 author: v-makune
 
@@ -22,15 +22,15 @@ Tato funkce poskytuje následující výkazy:
 
 Tyto výkazy používají účetní schémata s definovanou strukturou statutárních výkazů.
 
-V tabulce Název účetního schématu je v české verzi přidáno nové pole:
+V tabulce **Název účetního schématu** je v české verzi přidáno nové pole:
 
-- Typ účetního schématu – Rozvaha nebo Výkaz zisku a ztrát
+- **Typ účetního schématu** – Rozvaha nebo Výkaz zisku a ztrát
 
-V řádku účetních schémat jsou v české verzi přidána nová pole:
+V **řádku účetních schémat** jsou v české verzi přidána nová pole:
 
-- Korekce řady – odkaz na jiný řádek pro sestavení Rozvahy
-- Typ Aktivní/Pasivní – Aktiva nebo pasiva pro sestavení Rozvahy
-- Vypočti – Vždy, Nikdy, Při kladné, Při záporné
+- **Korekce řady** – odkaz na jiný řádek pro sestavení Rozvahy
+- **Typ Aktivní/Pasivní** – Aktiva nebo pasiva pro sestavení Rozvahy
+- **Vypočti** – Vždy, Nikdy, Při kladné, Při záporné
 
 Rozvaha a Výkaz zisků a ztrát jsou často připravovány v šablonách souborů aplikace Excel s potřebným vzhledem pro vytištění výkazu. Uživatelé chtějí mít možnost mapovat definované účetní schémata do připravených šablon aplikace Excel.
 
