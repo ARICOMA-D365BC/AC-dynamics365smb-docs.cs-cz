@@ -1,14 +1,14 @@
 ---
-title: Czech Local Functionality - Supplementary VAT Statement | Microsoft Docs
+title: Czech Local Functionality - Supplementary VAT Statement
 description: This feature allows calculation and printing VAT statement for different VAT statements posted and submitted in one VAT period.
 author: v-makune
 
 ms-service: dynamics365-business-central
-ms.topic: conceptual
-ms.search.keywords: CZ, Czech, Advance payment, Advance invoices, Payables, Finance, Cash, EET, Cash Desk
-ms.date: 10/01/2020
-ms.reviewer: v-makune
-ms.author: v-makune
+ms.topic: article
+ms.search.keywords: Czech, Finance, VAT, Localization, CZ
+ms.date: 12/01/2020
+ms.reviewer: v-pejano
+ms.author: v-pejano
 ---
 
 
@@ -19,8 +19,9 @@ Ve funkcionalitě Vypočítat a účtovat vyrovnání DPH je číslo dokladu ulo
 
 ## Viz Také
 
+[Základní lokalizační balíček pro Česko](ui-extensions-core-localization-pack-cz.md)  
 [České lokální funkcionality](czech-local-functionality.md)  
 [Kontrolní hlášení DPH](how-to-create-vat-control-report.md)  
-[Datum DPH](how-to-setup-vat-date.md)
-[Výkaz DPH](vat-statement.md)
-[Finance](../../finance.md)
+[Datum DPH](how-to-setup-vat-date.md)  
+[Výkaz DPH](vat-statement.md)  
+[Finance](../../finance.md)  
