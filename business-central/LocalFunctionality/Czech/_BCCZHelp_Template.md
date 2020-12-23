@@ -1,6 +1,8 @@
 ---
 title: Czech Local Functionality | Microsoft Docs
-description: The following topics describe the local functionality in the Czech version of Business Central.
+description: 
+This section describes Czech local functionality - CashDesk management.
+The following topics describe the local functionality in the Czech version of Business Central.
 author: v-pejano
 
 ms-service: dynamics365-business-central
@@ -29,10 +31,10 @@ Pokud téma obsahuje několik procesů nebo funkcí, kroky opakujte.
 
 ## Viz Také
 
-[Základní lokalizační balíček pro Česko](ui-extensions-core-localization-pack-cz.md)
+[Základní lokalizační balíček pro Česko](ui-extensions-core-localization-pack-cz.md)  
 [České lokální funkcionality](czech-local-functionality.md)  
-[Finance](../../finance.md)
+[Finance](../../finance.md)  
 
 [Core Localization Pack for Czech](ui-extensions-core-localization-pack-cz.md)  
 [Advanced Localization Pack for Czech](ui-extensions-advanced-localization-pack-cz.md)  
-[Czech Local Functionality](czech-local-functionality.md)
+[Czech Local Functionality](czech-local-functionality.md)  

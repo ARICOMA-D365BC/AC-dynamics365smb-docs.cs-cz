@@ -1,14 +1,14 @@
 ---
-title: Czech Local Functionality - Setup VAT date | Microsoft Docs
-description: This feature focuses on improving - VAT Date, Setup of the VAT Date Feature, Calculating and Posting VAT Settlement 
-author: v-makune
+title: Czech Local Functionality - Setup VAT date
+description: This section describes Czech local functionality - VAT Date and Setup of the VAT Date Feature.
+author: v-pejano
 
 ms-service: dynamics365-business-central
-ms.topic: conceptual
-ms.search.keywords: CZ, Czech, Advance payment, Advance invoices, Payables, Finance,  Cash, EET, Cash Desk
-ms.date: 10/01/2020
-ms.reviewer: v-makune
-ms.author: v-makune
+ms.topic: article
+ms.search.keywords: Czech, Finance, VAT, Localization, CZ
+ms.date: 12/01/2020
+ms.reviewer: v-pejano
+ms.author: v-pejano
 ---
 
 
@@ -35,6 +35,8 @@ Po zaúčtování je Datum DPH součástí zaúčtovaných dokladů, věcných p
 Systém filtruje položky DPH na základě data DPH (místo Zúčtovacího data) výběrem DPH období a připraví sestavu ukazující, které položky budou převedeny na účet vyrovnání DPH. Výtisk obsahuje také informace o datu DPH.
 
 ## Viz Také
+
+[Základní lokalizační balíček pro Česko](ui-extensions-core-localization-pack-cz.md)  
 [Kontrolní hlášení DPH](how-to-create-vat-control-report.md)  
-[Výkaz DPH](vat-statement.md)
-[Finance](../../finance.md)
+[Výkaz DPH](vat-statement.md)  
+[Finance](../../finance.md)  
