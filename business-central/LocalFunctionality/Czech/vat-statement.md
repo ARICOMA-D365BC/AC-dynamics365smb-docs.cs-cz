@@ -1,14 +1,14 @@
 ---
-title: Czech Local Functionality - VAT statement | Microsoft Docs
+title: Czech Local Functionality - VAT statement 
 description: This functionality describes improvements that the VAT Statement report contains.
 author: v-makune
 
 ms-service: dynamics365-business-central
-ms.topic: conceptual
-ms.search.keywords: CZ, Czech, Advance payment, Advance invoices, Payables, Finance,  Cash, EET, Cash Desk
-ms.date: 10/01/2020
-ms.reviewer: v-makune
-ms.author: v-makune
+ms.topic: article
+ms.search.keywords: Czech, Finance, VAT, Localization, CZ
+ms.date: 12/01/2020
+ms.reviewer: v-pejano
+ms.author: v-pejano
 ---
 
 
@@ -27,10 +27,10 @@ Výkaz DPH obsahuje řadu vylepšení a možností:
 - Exportovat výkaz DPH do souboru .xml.
 - Přidat komentáře a přílohy k exportu pro finanční úřad.
 
-
 ## Viz Také
 
+[Základní lokalizační balíček pro Česko](ui-extensions-core-localization-pack-cz.md)  
 [České lokální funkcionality](czech-local-functionality.md)  
 [Kontrolní hlášení DPH](how-to-create-vat-control-report.md)  
-[Datum DPH](how-to-setup-vat-date.md)
-[Finance](../../finance.md)
+[Datum DPH](how-to-setup-vat-date.md)  
+[Finance](../../finance.md)  
