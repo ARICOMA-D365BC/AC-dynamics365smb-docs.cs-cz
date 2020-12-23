@@ -23,6 +23,6 @@ Z výše uvedených důvodů tato funkce poskytuje následující sestavy:
 
 ## Viz Také
 
-[Základní lokalizační balíček pro Česko](ui-extensions-core-localization-pack-cz.md)
+[Základní lokalizační balíček pro Česko](ui-extensions-core-localization-pack-cz.md)  
 [České lokální funkcionality](czech-local-functionality.md)  
-[Finance](../../finance.md)
+[Finance](../../finance.md)  
