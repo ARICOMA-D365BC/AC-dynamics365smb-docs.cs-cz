@@ -21,5 +21,5 @@ Pro jednu z nejvíce používaných oblastí aplikace pro analýzu a reporting v
 
 ## Viz Také
 
-[Czech Local Functionality](czech-local-functionality.md)
-[Finance](finance.md)
+[České lokální funkcionality](czech-local-functionality.md)  
+[Finance](../../finance.md)
