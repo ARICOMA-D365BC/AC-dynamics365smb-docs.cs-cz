@@ -1,5 +1,5 @@
 ---
-title: Czech Local Functionality - VAT Exchange Rate | Microsoft Docs
+title: Czech Local Functionality - VAT Exchange Rate
 description: The Czech Republic requires the possibility to set different exchange rates for posting and VAT in sales and purchase documents. This feature adds the VAT Currency Code and VAT Exchange Rate fields in documents in the Czech version of Business Central.
 author: v-pejano
 
