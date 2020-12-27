@@ -11,7 +11,8 @@ ms.reviewer: v-pejano
 ms.author: v-pejano
 ---
 
-# Souhrnné hlášení – CZ Export 
+# Souhrnné hlášení – CZ Export  
+
 Funkcionalita, která umožňuje vyexportovat Souhrnné hlášení DPH do XML souboru ve struktuře požadované finanční správou. XML soubor je možné následně nahrát na portál finanční správy a Souhrnné hlášení tak elektronicky podat.
 
 ## Viz Také
