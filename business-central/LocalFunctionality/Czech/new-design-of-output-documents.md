@@ -5,7 +5,7 @@ author: v-makune
 
 ms-service: dynamics365-business-central
 ms.topic: article
-ms.search.keywords: CZ, Czech, Advance payment, Advance invoices, Payables, Finance,  Cash, EET, Cash Desk
+ms.search.keywords: Czech, Finance, Localization, CZ
 ms.date: 10/01/2020
 ms.reviewer: v-makune
 ms.author: v-makune
