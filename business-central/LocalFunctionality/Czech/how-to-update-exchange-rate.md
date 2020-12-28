@@ -5,8 +5,8 @@ author: v-pejano
 
 ms-service: dynamics365-business-central
 ms.topic: article
-ms.search.keywords: CZ, Czech, Finance, Exchange Rate
-ms.date: 10/01/2020
+ms.search.keywords: CZ, Czech, Finance, Exchange Rate, Localization
+ms.date: 12/01/2020
 ms.reviewer: v-pejano
 ms.author: v-pejano
 ---
@@ -17,8 +17,9 @@ Společnosti je umožněno automaticky aktualizovat směnné kurzy měn pomocí 
 Ty byly vylepšeny o možnost automaticky aktualizovat směnné kurzy měn z ČNB (České Národní Banky).
 Uživatel si může v nastavení služby směnného kurzu definovat http adresu služby a další parametry aktualizace směnných kurzů.
 
-## Viz Také
+## Viz také
 
-[Core Localization Pack for Czech](ui-extensions-core-localization-pack-cz.md)  
+[Základní lokalizační balíček pro Česko](ui-extensions-core-localization-pack-cz.md)  
 [České lokální funkcionality](czech-local-functionality.md)  
-[Finance](finance.md)
+[Finance](finance.md)  
+
