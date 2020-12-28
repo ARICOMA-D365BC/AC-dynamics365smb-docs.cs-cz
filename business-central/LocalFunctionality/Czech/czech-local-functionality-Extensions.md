@@ -24,7 +24,7 @@ Následující témata popisují lokální funkcionalitu české verze [!INCLUDE
   * [VIES - CZ Export](how-to-use-vies-cz-export.md) **Nyní k dispozici** 
   * [Institut nespolehlivého plátce](unreliable-payer.md) **Nyní k dispozici** 
   * [Kontrolní hlášení DPH](how-to-create-vat-control-report.md) **Nyní k dispozici** 
-  * [Sestavy DPH](czech-vat-reports.md) **Nyní k dispozici** 
+  * [Sestavy DPH](vat-reports-cz.md) **Nyní k dispozici** 
   * [Úprava směnných kurzů](how-to-update-exchange-rate.md) **Nyní k dispozici** 
   * [Statutární informace o společnosti](statutory-company-information.md) **Nyní k dispozici** 
   * [Statutární výkazy](statutory-statements.md) **Nyní k dispozici** 
