@@ -1,14 +1,14 @@
 ---
-title: Czech Local Functionality - Sales correcting documents | Microsoft Docs
-description: This section describes local functionality - Sales correcting documents
+title: Czech Local Functionality - Sales correcting documents 
+description: This section describes local functionality - Sales correcting documents.
 author: v-makune
 
 ms-service: dynamics365-business-central
-ms.topic: conceptual
-ms.search.keywords: CZ, Czech, Advance payment, Advance invoices, Payables, Finance,  Cash, EET, Cash Desk
-ms.date: 10/01/2020
-ms.reviewer: v-makune
-ms.author: v-makune
+ms.topic: article
+ms.search.keywords: Czech, Finance, Payables, Localization, CZ
+ms.date: 12/01/2020
+ms.reviewer: v-pejano
+ms.author: v-pejano
 ---
 
 
@@ -20,7 +20,8 @@ Podle novelizace Zákona o DPH je nutné rozlišovat typy prodejních dobropisů
 - Interní oprava
 - Daňový doklad insolvence
 
-## Viz Také
+## Viz také
 
+[Základní lokalizační balíček pro Česko](ui-extensions-core-localization-pack-cz.md)  
 [České lokální funkcionality](czech-local-functionality.md)  
-[Finance](../../finance.md)
+[Finance](../../finance.md)  
