@@ -23,7 +23,7 @@ K dispozici je pak i tisk Dohody o vzájemném zápočtu pohledávek a závazků
 - **Nastavení zápočtů** – Číselná řada, Protiúčet zápočtu, atd.,
 - **Karta zápočtu** – řádky k započtení,  
 - Funkce – **Navrhni řádky zápočtu**, Vydání,
-- **Dohoda o vzájemném zápočtu pohledávek a závazků**,
+- Tisk dokumentu **Dohoda o vzájemném zápočtu pohledávek a závazků**,
 - **Účtování zápočtu** – je vytvořen Účtovaný zápočet a provedeno vyrovnání položek.
 
 ## Viz také
