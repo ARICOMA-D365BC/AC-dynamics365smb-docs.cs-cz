@@ -8,7 +8,7 @@ author: v-pejano
 ms-service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: Czech, Finance, Localization, CZ
-ms.date: 10/01/2020
+ms.date: 12/01/2020
 ms.reviewer: v-pejano
 ms.author: v-pejano
 ---
@@ -35,8 +35,9 @@ Pokud téma obsahuje několik procesů nebo funkcí, kroky opakujte.
 [České lokální funkcionality](czech-local-functionality.md)  
 [Finance](../../finance.md)  
 
-# See Also
+## See Also
 
 [Core Localization Pack for Czech](ui-extensions-core-localization-pack-cz.md)  
 [Advanced Localization Pack for Czech](ui-extensions-advanced-localization-pack-cz.md)  
 [Czech Local Functionality](czech-local-functionality.md)  
+[Finance](../../finance.md)  
