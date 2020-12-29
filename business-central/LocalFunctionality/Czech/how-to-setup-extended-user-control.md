@@ -1,12 +1,12 @@
 ---
-title: Czech Local Functionality - Extended User Control | Microsoft Docs
+title: Czech Local Functionality - Extended User Control 
 description: The majority of companies in the Czech Republic request the following improvements to be implemented in user setup and control.
 author: v-pejano
 
 ms-service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: Czech, Finance, Localization, CZ
-ms.date: 10/01/2020
+ms.date: 12/01/2020
 ms.reviewer: v-pejano
 ms.author: v-pejano
 ---
@@ -14,6 +14,7 @@ ms.author: v-pejano
 # Rozšířené uživatelské kontroly
 
 Tato funkcionalita umožňuje nastavit pomocí Nastavení uživatelů v kombinaci s novými Řádky nastavení uživatelů následující údaje a kontroly:
+
 - Přiřadit uživatele k číslu zaměstnance
 - Nastavit filtr centra odpovědnosti hotovosti pro pokladní operace
 - Kontrolovat data dokladu při účtování proti pracovnímu nebo systémovému datu
@@ -30,6 +31,7 @@ Tato funkcionalita umožňuje nastavit pomocí Nastavení uživatelů v kombinac
 - Povolit dokončení projektu
 - Povolit storno vyrovnání zboží
 
-## Viz Také
+## Viz také
 
-[Czech Local Functionality](czech-local-functionality.md)
+[Základní lokalizační balíček pro Česko](ui-extensions-core-localization-pack-cz.md)  
+[České lokální funkcionality](czech-local-functionality.md)  
