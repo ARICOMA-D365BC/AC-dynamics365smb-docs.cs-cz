@@ -1,37 +1,23 @@
 ---
-title: Czech Local Functionality - Stockkeeping Unit Template | Microsoft Docs
-description: The following topics describe the local functionality in the Czech version of Business Central.
-author: v-makune
+title: Czech Local Functionality Templates for inventory Operations – Stockkeeping Unit Templates
+description: The following topics describe the local functionality Stockkeeping Unit Templates in the Czech version of Business Central.
+author: v-pejano
 
 ms-service: dynamics365-business-central
-ms.topic: conceptual
-ms.search.keywords: CZ, Czech, Advance payment, Advance invoices, Payables, Finance,  Cash, EET, Cash Desk
-ms.date: 10/01/2020
-ms.reviewer: v-makune
-ms.author: v-makune
+ms.topic: article
+ms.search.keywords: Czech, Inventory, Localization, CZ
+ms.date: 12/01/2020
+ms.reviewer: v-pejano
+ms.author: v-pejano
 ---
 
+# Šablony skladových jednotek
 
-# Templates for inventory Operations – Stockkeeping Unit Templates
+Nastavte šablony skladových jednotek, které bude možné využít v procesu vytváření nových skladových jednotek zboží.
+Šablony se definují pro kombinaci Kategorie zboží a Lokace a lze zde nastavit základní parametry skladové jednotky, jako je Systém doplnění, Způsob přiobjednání atp.
+Šablony skladových jednotek je možné využít ve funkci, která vytváří nové skladové jednotky zboží. Při vytváření skladové jednotky funkcí jsou nastavení parametrů v šablonách automaticky kopírována do karet skladových jednotek.
 
-Odstavec textu se základními informacemi. Na co slouží, co to umí.
+## Viz také
 
-
-## Použití (procesy použití)
-
-Základní použití první funkce. (popis)
-
-(příklad)
-1. Pomocí vyhledávací funkce **Řekněte mi, co chcete udělat (Alt + Q)** vyhledejte **Nastavení kategorií**.
-2. Na kartě Nastavení v záložce Obecné je potřeba vybrat **Vynucení Kategorií** a **Výchozí prioritu**.
-3. V záložce Číslování nastavit **Číselnou řadu** pro požadavky.
-4. Potvrďte pomocí OK.
-
-
-Pokud téma obsahuje několik procesů nebo funkcí, kroky opakujte.
-
-
-## Viz Také
-
+[Základní lokalizační balíček pro Česko](ui-extensions-core-localization-pack-cz.md)  
 [České lokální funkcionality](czech-local-functionality.md)  
-[Finance](../../finance.md)
