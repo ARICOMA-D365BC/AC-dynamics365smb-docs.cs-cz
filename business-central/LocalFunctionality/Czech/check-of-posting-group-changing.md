@@ -1,38 +1,27 @@
 ---
-title: Czech Local Functionality | Microsoft Docs
-description: The following topics describe the local functionality in the Czech version of Business Central.
-author: v-makune
+title: Czech Local Functionality Check of Posting Group changing – Customer, Vendor, item, bank account
+description: The following topics describe the local functionality Check of Posting Group changing – Customer, Vendor, item, bank account in the Czech version of Business Central.
+author: v-pejano
 
 ms-service: dynamics365-business-central
-ms.topic: conceptual
-ms.search.keywords: CZ, Czech, Advance payment, Advance invoices, Payables, Finance,  Cash, EET, Cash Desk
-ms.date: 10/01/2020
-ms.reviewer: v-makune
-ms.author: v-makune
+ms.topic: article
+ms.search.keywords: Czech, Finance, Localization, CZ
+ms.date: 12/01/2020
+ms.reviewer: v-pejano
+ms.author: v-pejano
 ---
 
+# Kontrola změn účto skupin - zákazník, dodavatel, zboží, bankovní účet
 
-# Check of Posting Group changing – Customer, Vendor, item, bank account
+Standardní funkcionalita byla doplněna o kontroly v případě požadavku na změnu účtoskupin u karet zákazníků, dodavatelů, zboží a bankovních účtů.
 
+- Na Kartě zákazníka lze změnit účto skupinu zákazníka v případě, že neexistují otevřené položky zákazníka.
+- Na Kartě dodavatele lze změnit účto skupinu dodavatele v případě, že neexistují otevřené položky dodavatele.
+- Na Kartě zboží lze změnit účto skupinu zboží v případě, že neexistují otevřené položky zboží a zároveň neexistují nevyfakturované uzavřené položky zboží.
+- Na Kartě bankovního účtu lze změnit účto skupinu bankovního účtu v případě, že je Saldo nebo Saldo (LM) nenulové.
 
-Odstavec textu se základními informacemi. Na co slouží, co to umí.
+## Viz také
 
-
-## Použití (procesy použití)
-
-Základní použití první funkce. (popis)
-
-(příklad)
-1. Pomocí vyhledávací funkce **Řekněte mi, co chcete udělat (Alt + Q)** vyhledejte **Nastavení kategorií**.
-2. Na kartě Nastavení v záložce Obecné je potřeba vybrat **Vynucení Kategorií** a **Výchozí prioritu**.
-3. V záložce Číslování nastavit **Číselnou řadu** pro požadavky.
-4. Potvrďte pomocí OK.
-
-
-Pokud téma obsahuje několik procesů nebo funkcí, kroky opakujte.
-
-
-## Viz Také
-
+[Základní lokalizační balíček pro Česko](ui-extensions-core-localization-pack-cz.md)  
 [České lokální funkcionality](czech-local-functionality.md)  
-[Finance](../../finance.md)
+[Finance](../../finance.md)  
