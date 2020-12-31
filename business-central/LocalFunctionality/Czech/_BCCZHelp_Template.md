@@ -15,6 +15,11 @@ ms.author: v-pejano
 
 # Business Central - CZ Lokální Funkcionalita
 
+Následující témata popisují lokální funkcionalitu české verze [!INCLUDE[d365fin](../../includes/d365fin_md.md)].  
+[!INCLUDE[prodshort](../../includes/prodshort.md)]  
+
+[!INCLUDE[d365fin](../../includes/d365fin_long_md.md)]  
+
 Odstavec textu se základními informacemi. Na co slouží a co to umí.
 
 ## Použití (procesy použití)
