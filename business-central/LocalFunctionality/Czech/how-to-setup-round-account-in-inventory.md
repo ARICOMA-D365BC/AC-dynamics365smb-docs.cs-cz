@@ -17,5 +17,5 @@ ms.author: v-pejano
 
 ## Viz Také
 
-[Advanced Localization Pack for Czech](ui-extensions-advanced-localization-pack-cz.md)  
+[Rozšířený lokalizační balíček pro Česko](ui-extensions-advanced-localization-pack-cz.md)  
 [Czech Local Functionality](czech-local-functionality.md)
