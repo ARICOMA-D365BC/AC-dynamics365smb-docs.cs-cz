@@ -21,7 +21,7 @@ V Trasách transferu byla doplněna pole umožňující zadat obecné obchodní 
 
 Nejprve nastavte pole Obecná obch.úč.sk.dodání a Obecná obch.úč.sk.příjem pro Trasy transferu.
 
-1. Pomocí vyhledávací funkce **Řekněte mi, co chcete udělat (Alt + Q)** vyhledejte **Trasy transferu**.
+1. Pomocí vyhledávací funkce ![Žárovky, která otevře funkci Řekněte mi, co chcete dělat (Alt + Q)](../../media/ui-search/search_small.png "Řekněte mi, co chcete dělat (Alt + Q)") vyhledejte **Trasy transferu**.
 2. Zvolte požadovanou kombinaci lokací pro transfer a otevřete **Detaily spec.transferu**.
 3. Vyplňte požadované pole a pole Obecná obch.úč.sk.dodání a Obecná obch.úč.sk.příjem.
 4. Potvrďte pomocí Zavřít.
@@ -30,7 +30,7 @@ Nejprve nastavte pole Obecná obch.úč.sk.dodání a Obecná obch.úč.sk.pří
 
 Při vytváření Objednávky transferu jsou nastavené účto skupiny automaticky vloženy z Tras transferu pro odpovídající kombinaci skladů, mezi kterými je realizován přesun zboží.
 
-1. Pomocí vyhledávací funkce **Řekněte mi, co chcete udělat (Alt + Q)** vyhledejte **Objednávky transferu**.
+1. Pomocí vyhledávací funkce ![Žárovky, která otevře funkci Řekněte mi, co chcete dělat (Alt + Q)](../../media/ui-search/search_small.png "Řekněte mi, co chcete dělat (Alt + Q)") vyhledejte **Objednávky transferu**.
 2. Klikněte na funkci **Nový** pro založení nové Objednávky transferu.
 3. Zvolte požadovanou lokaci v poli **Transfer z-kód** a **Transfer do-kód**.
 4. Dle nastavení Trasy transferu jsou automaticky předvyplněna pole **Obecná obch.úč.sk.dodání** a **Obecná obch.úč.sk.příjem**. Uživatel může dle potřeby tyto výchozí účto skupiny změnit.
