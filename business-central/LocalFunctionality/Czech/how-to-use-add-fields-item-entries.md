@@ -6,12 +6,12 @@ author: v-pejano
 ms-service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: Czech, Item entries, Localization, CZ
-ms.date: 12/01/2020
+ms.date: 01/31/2021
 ms.reviewer: v-pejano
 ms.author: v-pejano
 ---
 
-# Kódy původu v položce zboží a ocenění
+# Kódy původu v položce zboží a položce ocenění
 
 Pro snazší identifikaci položek zboží a ocenění byla do obou evidencí přidána následující pole:
 
