@@ -6,7 +6,7 @@ author: v-pejano
 ms-service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: Czech, Finance, Inventory, Localization, CZ
-ms.date: 10/01/2020
+ms.date: 31/03/2021
 ms.reviewer: v-pejano
 ms.author: v-pejano
 ---
@@ -18,4 +18,4 @@ ms.author: v-pejano
 ## Viz Také
 
 [Rozšířený lokalizační balíček pro Česko](ui-extensions-advanced-localization-pack-cz.md)  
-[Czech Local Functionality](czech-local-functionality.md)
+[Česká lokální funkcionalita](czech-local-functionality.md)
