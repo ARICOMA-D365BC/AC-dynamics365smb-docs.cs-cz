@@ -5,13 +5,13 @@ author: v-pejano
 
 ms-service: dynamics365-business-central
 ms.topic: article
-ms.search.keywords: Czech, Finance, Localization, CZ
-ms.date: 10/01/2020
+ms.search.keywords: Czech, Fixed Asset, Localization, CZ
+ms.date: 03/01/2021
 ms.reviewer: v-pejano
 ms.author: v-pejano
 ---
 
-# Daňové odpisy dlouhodobého majetku  
+# Daňové odpisy dlouhodobého majetku
 
 Funkcionalita daňového odepisování dlouhodobého majetku počítá a účtuje daňové odpisy v souladu se Zákonem o dani z příjmu (Zákon č. 586/1992 §26 - §33). Obsahuje zvláštní nastavení pro daňové odpisové skupiny, kde lze zadávat dobu a metodu odepisování, odpisové sazby a koeficienty pro nové odpisové metody daňových odpisů dlouhodobého majetku.  
 
@@ -26,4 +26,5 @@ Každý dlouhodobý majetek je zařazen do určité odpisové skupiny. Tyto skup
 
 ## Viz Také
 
+[Dlouhodobý majetek pro Česko](ui-extensions-fixed-asset-localization-cz.md)
 [Czech Local Functionality](czech-local-functionality.md)

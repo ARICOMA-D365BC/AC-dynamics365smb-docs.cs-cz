@@ -5,8 +5,8 @@ author: v-pejano
 
 ms-service: dynamics365-business-central
 ms.topic: article
-ms.search.keywords: Czech, Finance, Localization, CZ
-ms.date: 10/01/2020
+ms.search.keywords: Czech, Fixed Asset, Localization, CZ
+ms.date: 03/01/2021
 ms.reviewer: v-pejano
 ms.author: v-pejano
 ---
@@ -35,4 +35,5 @@ Pro Českou republiku byly upraveny následující standardní sestavy (nové so
 
 ## Viz Také
 
+[Dlouhodobý majetek pro Česko](ui-extensions-fixed-asset-localization-cz.md)
 [Czech Local Functionality](czech-local-functionality.md)
