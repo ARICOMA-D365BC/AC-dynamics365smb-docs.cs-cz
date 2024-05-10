@@ -1,6 +1,7 @@
 name: Update Fork
 
 on:
+  workflow_dispatch:  # Tento trigger povoluje manuální spuštění
   schedule:
     - cron: '0 2 * * 1'
 
