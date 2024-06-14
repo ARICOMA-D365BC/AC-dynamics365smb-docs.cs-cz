@@ -10,12 +10,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        
-      - name: Prune and checkout
-        run: |
-          git remote prune origin
-          git checkout main
-    
+           
       - name: Configure git
         run: |
           git config --global user.name "ACPJanousek"
